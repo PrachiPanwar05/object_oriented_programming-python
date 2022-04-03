@@ -5,4 +5,5 @@ class Point:
     
 p = Point()
 p.reset()
+
 print(p.x, p.y)  
