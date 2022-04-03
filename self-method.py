@@ -1,3 +1,5 @@
+#pass multiple arguments to method . return the distance between two points
+
 import math
 
 class Point:
